@@ -13,3 +13,8 @@ Open Eclipse, and select **New** > **ABAP Package**.
  
 [DONE]
 [ACCORDION-END]
+[ACCORDION-BEGIN [Step 2: ](Open Eclipse)]
+Open Eclipse, and select **New** > **ABAP Package**.
+![Open Eclipse](package.png)
+[DONE]
+[ACCORDION-END]
