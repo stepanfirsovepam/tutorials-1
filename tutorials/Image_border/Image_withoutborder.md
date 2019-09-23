@@ -25,10 +25,12 @@ Open Eclipse, and select **New** > **ABAP Package**.
  
 !![Open Eclipse](white-background.png)
 
-http://127.0.0.1.
+http://127.0.0.1
 http://localhost/
 https://google.com
- 
+[URL1] (http://127.0.0.1)
+[URL2] (http://localhost/)
+[URL3] (https://google.com)
 [DONE]
 [ACCORDION-END]
 
