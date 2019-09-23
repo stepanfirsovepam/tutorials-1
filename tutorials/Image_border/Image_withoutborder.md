@@ -24,6 +24,10 @@ Open Eclipse, and select **New** > **ABAP Package**.
 !![Open Eclipse](white-background.png)
  
 !![Open Eclipse](white-background.png)
+
+http://127.0.0.1.
+http://localhost/
+https://google.com
  
 [DONE]
 [ACCORDION-END]
