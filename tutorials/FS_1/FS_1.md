@@ -2,7 +2,7 @@
 title: SF_1
 description: Links, tips, tricks and more for getting started with the SAP HANA, express edition
 primary_tag: products>sap-hana\,-express-edition
-tags: [  tutorial>how-to, tutorial>beginner, tutorial>intermediate, products>sap-hana, products>sap-hana\,-express-edition  ]
+tags: [  tutorial>how-to, ForTest>testcheck, tutorial>intermediate, products>sap-hana, products>sap-hana\,-express-edition  ]
 time: 111
 
 ---
