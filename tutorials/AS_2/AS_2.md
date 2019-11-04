@@ -46,9 +46,8 @@ OR
 
       ![Create ABAP package](package4.png)
       
-      ![Checkyourself](cat and dog.png)
+      ![Checkyourself](cat_and_dog.png)
 
-OR
 
       !![Checkyourself](cat and dog.png)
 
