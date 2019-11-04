@@ -23,7 +23,6 @@ Open Eclipse, and select **New** > **ABAP Package**.
 
 ![Checkyourself](cat and dog.png)
 
-OR
 
 !![Checkyourself](cat and dog.png)
  
