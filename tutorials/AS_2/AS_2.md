@@ -21,11 +21,11 @@ In this tutorial, wherever `XXX` appears, use a number (e.g. `000`).
 [ACCORDION-BEGIN [Step 1: ](Open Eclipse)]
 Open Eclipse, and select **New** > **ABAP Package**.
 
-![cat](cat and dog.png)
+![Checkyourself](cat and dog.png)
 
 OR
 
-!![cat](cat and dog.png)
+!![Checkyourself](cat and dog.png)
  
 [DONE]
 [ACCORDION-END]
