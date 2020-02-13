@@ -1,5 +1,5 @@
 ---
-title: AS_8
+title: SF_8
 description: ADMINTOOL final
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
