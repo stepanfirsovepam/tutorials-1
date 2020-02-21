@@ -29,6 +29,7 @@ TEST2
 
 [ACCORDION-BEGIN [test](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+ [portal.azure.com](portal.azure.com)
 
 
 [DONE]
