@@ -22,6 +22,7 @@ In this tutorial, wherever `XXX` appears, use a number (e.g. `000`).
 Open Eclipse, and select **New** > **ABAP Package**.
 
 ![Checkyourself](cat and dog.png)
+ [portal.azure.com](portal.azure.com)
 
 
 !![Checkyourself](cat and dog.png)
