@@ -11,6 +11,7 @@ time: 44
 
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator new](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+ 
 
 ## Details
 ### You will learn  
@@ -55,7 +56,7 @@ and
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-
+[google.com](google.com)
 [DONE]
 [ACCORDION-END]
 
