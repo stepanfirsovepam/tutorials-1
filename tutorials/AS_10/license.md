@@ -1,6 +1,6 @@
 ---
-title: SF_10_license
-description: 2 new types of rules 2007_1
+title: SF_10_license SF_10_license SF_10_license SF_10_licenseSF_10_licenseSF_10_licenseSF_10_licenseSF_10_licenseSF_10_licenseSF_10_licenseSF_10_license
+description:  2 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_12 new types of rules 2007_1
 tags: [tutorial:product/sapHana, tutorial:products:/content/73555000100700000761, tutorial:license]
 primary_tag: tutorial:product/sapHana
 author_name: AE21
